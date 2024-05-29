@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Define a class for K-means clustering
 class KMeansClustering:
